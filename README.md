@@ -1,2 +1,2 @@
 # PotionPower
-PotionPower Mod
+A mod that adds potion ores, armour, and tools.
